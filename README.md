@@ -3,17 +3,9 @@
 My patern repository for all my projects!
 (Description here!)
 
-# Genesis
+# Getting Started
 
-(History here!)
-
-# Usage of (Name here!)
-
-(Dscription of usage!)
-
-# TODO
-
-[List](Link here!) of what I would like to be done in [Name here!] and it's repository!
+(How to start the solution?)
 
 # Contact
 
