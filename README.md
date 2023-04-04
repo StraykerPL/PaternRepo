@@ -3,10 +3,18 @@
 My patern repository for all my projects!
 (Description here!)
 
+# Tech Stack
+
+- [List Here!]()
+
 # Getting Started
 
 (How to start the solution?)
 
+# Licensing
+
+This project is licensed under MIT/X11 license.
+
 # Contact
 
-If you have any suggestions for Strayex or you want to ask me for something, go to official [Strayex Discord Server!](https://discord.gg/ytdkCVD)
+If you have any suggestions or you want to ask me something, go to official [Strayker Software Discord Server!](https://discord.gg/ytdkCVD)
