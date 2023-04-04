@@ -1,9 +1,3 @@
 # (Name here!) Docs
 
-Here is main documentation for (Name here!).
-To find your language check names of folders to find your lang's symbol.
-
-# Contribution and licensing
-
-This documentation is licensed like the the repo. License is in main repo's folder.
-To help me writting this documentation, read CONTRIBUTING.md in main repo's folder!
+Here are stored all info necessary for documentation, but in files. Any info, that can be pasted into Wiki should be provided there.
