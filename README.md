@@ -5,11 +5,11 @@ My patern repository for all my projects!
 
 ## Tech Stack
 
-- [List Here!]()
+- List Here!
 
 ## Getting Started
 
-(How to start the solution?)
+(How to run the solution?)
 
 ## Licensing
 
